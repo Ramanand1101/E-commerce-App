@@ -34,7 +34,7 @@ Funky Online Store API is a backend service for an e-commerce application that h
    npm start
    ```
 
-The API server will start running on `http://localhost:3000`.
+Deployed link [https://celadon-basbousa-d43b06.netlify.app/](https://celadon-basbousa-d43b06.netlify.app/).
 
 ## Usage
 
@@ -107,3 +107,12 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
+
+
+
